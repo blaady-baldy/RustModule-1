@@ -1,5 +1,7 @@
 
 // Make it work, don't modify `implicitly_ret_unit` !
+#![allow(unused_variables)]
+#![allow(dead_code)]
 fn main() {
     let _v: () = (); //unit
     //()
